@@ -1,3 +1,8 @@
+---
+title: "Black Friday Analysis"
+author: Shivangi
+output: github_document
+---
 ## Analysis of Black Friday Dataset
 
 My work is to perform a preliminary analysis of consumer behavior using sales
